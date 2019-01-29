@@ -103,7 +103,7 @@ img.profile-logo {
 .col.is-6 {
 	flex: none;
 	width: 60%;
-	padding-top: 90px;
+	margin-top: 90px;
 	padding-bottom: 120px;
 }
 
