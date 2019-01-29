@@ -190,10 +190,6 @@ img.profile-logo {
 	font-weight: 300;
 }
 
-.blue-color {
-	filter: filter: invert(12%) sepia(100%) saturate(5072%) hue-rotate(233deg) brightness(101%) contrast(120%);
-}
-
 @media screen and (max-width: 600px) {
   img.profile-pic {
     height: 60%;
