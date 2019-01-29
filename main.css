@@ -190,6 +190,10 @@ img.profile-logo {
 	font-weight: 300;
 }
 
+.blue-color {
+	fill: #132fff;
+}
+
 @media screen and (max-width: 600px) {
   img.profile-pic {
     height: 60%;
