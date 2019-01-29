@@ -191,7 +191,7 @@ img.profile-logo {
 }
 
 .blue-color {
-	filter: invert(13%) sepia(99%) saturate(5513%) hue-rotate(240deg) brightness(96%) contrast(110%);
+	filter: invert(20%) sepia(100%) saturate(7291%) hue-rotate(240deg) brightness(97%) contrast(108%);
 }
 
 @media screen and (max-width: 600px) {
